@@ -1,0 +1,81 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 24, 2022, 7:55:48 PM
+
+#minecraft:ocean_ruin
+- minecraft:ocean_ruin_cold
+- minecraft:ocean_ruin_warm
+
+#blue_skies:on_bunker_maps
+- blue_skies:frozen_bunker
+
+#minecraft:mineshaft
+- minecraft:mineshaft
+- minecraft:mineshaft_mesa
+
+#minecraft:on_woodland_explorer_maps
+- minecraft:mansion
+
+#blue_skies:on_nature_maps
+- blue_skies:nature_dungeon
+
+#blue_skies:on_blinding_maps
+- blue_skies:everbright_blinding_dungeon
+- blue_skies:everdawn_blinding_dungeon
+
+#quark:soul_bead_target
+- minecraft:fortress
+
+#minecraft:shipwreck
+- minecraft:shipwreck
+- minecraft:shipwreck_beached
+
+#minecraft:on_ocean_explorer_maps
+- minecraft:monument
+
+#blue_skies:tree_disallowed
+- #blue_skies:on_nature_maps
+- blue_skies:village_calming_skies
+- blue_skies:village_crystal_dunes
+- blue_skies:village_brightlands
+- blue_skies:village_sunset_maple_forest
+- blue_skies:village_slushlands
+
+#blue_skies:on_poison_maps
+- blue_skies:poison_dungeon
+
+#minecraft:on_treasure_maps
+- minecraft:buried_treasure
+
+#blue_skies:dungeons
+- blue_skies:everbright_blinding_dungeon
+- blue_skies:everdawn_blinding_dungeon
+- blue_skies:nature_dungeon
+- blue_skies:poison_dungeon
+
+#minecraft:eye_of_ender_located
+- minecraft:stronghold
+
+#minecraft:ruined_portal
+- minecraft:ruined_portal_desert
+- minecraft:ruined_portal_jungle
+- minecraft:ruined_portal_mountain
+- minecraft:ruined_portal_nether
+- minecraft:ruined_portal_ocean
+- minecraft:ruined_portal
+- minecraft:ruined_portal_swamp
+
+#minecraft:village
+- minecraft:village_plains
+- minecraft:village_desert
+- minecraft:village_savanna
+- minecraft:village_snowy
+- minecraft:village_taiga
+- blue_skies:village_calming_skies
+- blue_skies:village_crystal_dunes
+- blue_skies:village_brightlands
+- blue_skies:village_shaded_woodlands
+- blue_skies:village_sunset_maple_forest
+- blue_skies:village_slushlands
+
+#minecraft:dolphin_located
+- #minecraft:ocean_ruin
+- #minecraft:shipwreck
